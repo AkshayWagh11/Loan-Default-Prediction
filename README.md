@@ -1,5 +1,7 @@
 # Loan-Default-Prediction
 Introduction 
+
+
 The financial landscape is characterized by the continuous evolution of 
 lending practices and risk management strategies. In this context, the ability to 
 accurately predict loan defaults plays a pivotal role in sustaining the stability and 
