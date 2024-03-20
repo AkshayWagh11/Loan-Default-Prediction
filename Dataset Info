@@ -1,0 +1,14 @@
+This dataset has been taken from Coursera's  Loan Default Prediction 
+Challenge and will provide you the opportunity to tackle one of the most industry
+relevant machine learning problems with a unique dataset that will put your 
+modelling skills to the test. The dataset contains 255,347 rows and 18 columns in 
+total. 
+
+
+Target Column (1): Default 
+
+ 
+Feature Variables (17): LoanID, Age, Income, LoanAmount, CreditScore, 
+MonthsEmployed, NumCreditLines, InterestRate, LoanTerm, DTIRatio, 
+Education, EmploymentType, MaritalStatus, HasMortgage, HasDependents, 
+LoanPurpose, HasCoSigner
